@@ -4,7 +4,7 @@ The Student Management System is a graphical desktop application developed using
 It is designed to streamline the management of student records in educational institutions. 
 This user-friendly system provides educators and administrators with a centralized hub to
 efficiently handle essential tasks related to student data, such as adding, searching, editing,
-and deleting student records.
+and deleting student records. The system uses MySQL for database connection.
 
 # Features
 ### Graphical User Interface (GUI):
